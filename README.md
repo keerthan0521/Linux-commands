@@ -1,4 +1,3 @@
-# Linux commands
 
 ### Navigation
 - pwd - present working directory
